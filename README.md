@@ -10,7 +10,14 @@
      Final project in an object-oriented programming course in c ++ Image of a zoo
      using object-oriented programming and the principle of polymorphism
  
-<h3 style="border: 3px;">Some pictures...</h3>
+  <hr>
+   
+   In this project we demonstrate our knowledge in:
+   * **advanced OOP** 
+   * **C ++ programming principles**
+   * **polymorphism**
+  
+ <img src="https://img.shields.io/badge/Downloads-0-lightgreen" alt="sce" >
 
 
 
