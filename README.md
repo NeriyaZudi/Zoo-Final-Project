@@ -11,14 +11,11 @@
      using object-oriented programming and the principle of polymorphism
  
   <hr>
-   
+    <img src="https://upload.wikimedia.org/wikipedia/he/4/44/SCE_logo.png" align="right"
+     alt="SCE logo" width="320" height="98">
    In this project we demonstrate our knowledge in:
    * **advanced OOP** 
    * **C ++ programming principles**
    * **polymorphism**
-  
- <img src="https://upload.wikimedia.org/wikipedia/he/4/44/SCE_logo.png" align="right"
-     alt="SCE logo" width="320" height="98">
-
 
 
