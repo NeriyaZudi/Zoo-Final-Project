@@ -5,7 +5,7 @@
      
  By: Neriya Zudi | <img src="https://img.shields.io/badge/Neriya-Programmer-blue" alt="Ner" > 
  
- & Ofek elgozi | <img src="https://img.shields.io/badge/Neria-Programmer-green" alt="Ofek" >
+ & Ofek Elgozi | <img src="https://img.shields.io/badge/Neria-Programmer-green" alt="Ofek" >
      
      Final project in an object-oriented programming course in c ++ Image of a zoo
      using object-oriented programming and the principle of polymorphism
