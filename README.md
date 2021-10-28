@@ -17,7 +17,8 @@
    * **C ++ programming principles**
    * **polymorphism**
   
- <img src="https://img.shields.io/badge/Downloads-0-lightgreen" alt="sce" >
+ <img src="https://upload.wikimedia.org/wikipedia/he/4/44/SCE_logo.png" align="right"
+     alt="SCE logo" width="320" height="98">
 
 
 
